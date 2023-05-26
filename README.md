@@ -5,14 +5,14 @@
 Create your unique and exclusive t-shirt with our brand-new 3D customization tool and define your own style.
 
 ##Preview 
-[![Preview Image](https://virus1260.github.io/3D_T-Shirt/Preview/1.png)]
+[![Preview Image](https://virus1260.github.io/3D_T-Shirt/Preview/1.png)](https://virus1260.github.io/3D_T-Shirt/Preview/3D_T-shirt.mp4)
 
 ## Demo
 
-- Frontend URLs:
-  - [Vercel App 1](https://3-d-t-shirt.vercel.app/)
-  - [Vercel App 2](https://3-d-t-shirt-virus1260.vercel.app/)
-  - [Vercel App 3](https://3-d-t-shirt-git-main-virus1260.vercel.app/)
+- Frontend (Vercel) URLs:
+  - [3D T-shirt 1](https://3-d-t-shirt.vercel.app/)
+  - [3D T-shirt 2](https://3-d-t-shirt-virus1260.vercel.app/)
+  - [3D T-shirt 3](https://3-d-t-shirt-git-main-virus1260.vercel.app/)
 
 - Backend URL:
   - [Render](https://threed-t-shirt.onrender.com)
